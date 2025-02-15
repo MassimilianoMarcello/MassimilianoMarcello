@@ -1,16 +1,50 @@
-## Hi there 👋
+Hi there 👋
+I'm MassDev, a full stack web developer passionate about creating visually appealing and user-friendly websites. I draw inspiration from music, design, and creativity, which I channel into every project I work on.
 
-<!--
-**MassimilianoMarcello/MassimilianoMarcello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Skills & Tech Stack
+Frontend: JavaScript, React, Next.js, HTML, CSS
+Backend: Node.js, MongoDB, SQL
+Frameworks & Stacks: MERN, JAMstack
+CMS: Sanity.io
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![Sanity.io](https://img.shields.io/badge/-Sanity.io-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)  
+![MERN Stack](https://img.shields.io/badge/-MERN-3B2D4F?style=for-the-badge&logo=javascript&logoColor=white)  
+![JAMstack](https://img.shields.io/badge/-JAMstack-F0047F?style=for-the-badge&logo=jamstack&logoColor=white)  
+
+
+🌱 Current Focus
+Improving my skills in Next.js and Sanity.io
+Exploring new JavaScript libraries and frameworks
+Contributing to open-source projects
+
+📚 Currently Studying
+Next.js and its server-side rendering capabilities (February 2025)
+Sanity.io for headless CMS integration (February 2025)
+Exploring new JavaScript frameworks (February 2025)
+Improving SQL performance optimization (February 2025)
+
+🚀 Featured Projects
+Project Name 1: A fully responsive e-commerce site
+Project Name 2: Project description and technologies used
+
+📜 Certifications & Training
+Full Stack Web Development (Vdab)
+Advanced JavaScript Course
+
+🤝 Let's Connect!
+Feel free to connect or reach out if you're interested in collaborating on exciting projects! 😊
+
+<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+
+
+
