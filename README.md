@@ -37,16 +37,22 @@ CMS: Sanity.io
 
 
 
-🌱 Current Focus
-Improving my skills in Next.js and Sanity.io
-Exploring new JavaScript libraries and frameworks
-Contributing to open-source projects
+## 🌱 Current Focus  
 
-📚 Currently Studying
-Next.js and its server-side rendering capabilities (February 2025)
-Sanity.io for headless CMS integration (February 2025)
-Exploring new JavaScript frameworks (February 2025)
-Improving SQL performance optimization (February 2025)
+| Goal                                       | Description                                         |
+|--------------------------------------------|-----------------------------------------------------|
+| **Next.js** and **Sanity.io**              | Improving my skills in these technologies          |
+| **JavaScript Libraries & Frameworks**      | Exploring new tools to expand my expertise         |
+| **Open-Source Projects**                   | Contributing to collaborative development efforts  |
+
+## 📚 Currently Studying  
+
+| Topic                                     | Description                                 | Date          |
+|-------------------------------------------|---------------------------------------------|---------------|
+| **Next.js**                               | Server-side rendering capabilities          | February 2025 |
+| **Sanity.io**                             | Headless CMS integration                    | February 2025 |
+| **JavaScript
+
 
 🚀 Featured Projects
 Project Name 1: A fully responsive e-commerce site
@@ -55,6 +61,13 @@ Project Name 2: Project description and technologies used
 📜 Certifications & Training
 Full Stack Web Development (Vdab)
 Advanced JavaScript Course
+
+## 💡 Fun Facts
+- 🎵 I’m passionate about independent music and love exploring new sounds.  
+- 🎚️ I enjoy tweaking synthesizer knobs to create unique sounds.  
+- 🍝 Being Italian, I know my way around the kitchen and enjoy cooking.  
+- 🌍 I’m always eager to learn new languages and explore different cultures.
+
 
 🤝 Let's Connect!
 Feel free to connect or reach out if you're interested in collaborating on exciting projects! 😊
