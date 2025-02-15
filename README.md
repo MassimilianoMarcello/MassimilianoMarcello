@@ -59,9 +59,8 @@ Advanced JavaScript Course
 🤝 Let's Connect!
 Feel free to connect or reach out if you're interested in collaborating on exciting projects! 😊
 
-## 📈 GitHub Stats
-![MassDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MassimilianoMarcello&show_icons=true&theme=radical)
-
+## 📈 GitHub Activity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MassimilianoMarcello&theme=radical)
 
 
 
