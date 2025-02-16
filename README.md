@@ -67,17 +67,17 @@
 
 | Goal                                       | Description                                         |
 |--------------------------------------------|-----------------------------------------------------|
-| **Next.js** and **Sanity.io**              | Improving my skills in these technologies          |
-| **JavaScript Libraries & Frameworks**      | Exploring new tools to expand my expertise         |
-| **Open-Source Projects**                   | Contributing to collaborative development efforts  |
+| **Next.js** and **Sanity.io**             | Enhancing my skills in these technologies          |
+| **JavaScript Libraries & Frameworks**     | Exploring new tools to broaden my expertise        |
+| **Open-Source Projects**                   | Contributing to collaborative development efforts    |
 
 ## 📚 Currently Studying  
 
-| Topic                                     | Description                                 | Date          |
-|-------------------------------------------|---------------------------------------------|---------------|
-| **Next.js**                               | Server-side rendering capabilities          | February 2025 |
-| **Sanity.io**                             | Headless CMS integration                    | February 2025 |
-| **JavaScript
+| Topic                                     | Description                                   | Date          |
+|-------------------------------------------|-----------------------------------------------|---------------|
+| **Next.js**                               | Learning about server-side rendering capabilities | February 2025 |
+| **Sanity.io**                             | Understanding headless CMS integration        | February 2025 |
+| **JavaScript**                            | Deepening knowledge of modern JavaScript features | February 2025 |
 
 
 🚀 Featured Projects
