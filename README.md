@@ -1,5 +1,5 @@
 
-<img src="https://delightful-swan-a26d76.netlify.app/logo-grey.webP" alt="My Logo" width="550" />  
+<img src="https://delightful-swan-a26d76.netlify.app/logo-grey.webP" alt="My Logo" width="550" align="center" />  
                                       
 
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
