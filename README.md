@@ -4,7 +4,19 @@
 
 
 
-<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" class="animated-gif"></h1>
+
+<style>
+  .animated-gif {
+    animation: spin 2s linear infinite;
+  }
+
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+</style>
+
 
 
 I'm **MassDev**, a full stack web developer passionate about creating visually appealing and user-friendly websites. I draw inspiration from music, design, and nature, which I channel into every project I undertake.
