@@ -3,19 +3,13 @@
                                       
 
 
+<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" class="animated-gif"></h1>
+<p align="center">Benvenuto nella mia pagina GitHub! Qui puoi trovare i miei progetti e contributi.</p>
 
-<style>
-  .animated-gif {
-    animation: spin 2s linear infinite;
-  }
+<h2 align="center">Contattami</h2>
+<p align="center">Email: <a href="mailto:tuoemail@example.com">tuoemail@example.com</a></p>
 
-  @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-</style>
 
 
 
