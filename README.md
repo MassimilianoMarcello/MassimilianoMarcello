@@ -5,12 +5,12 @@
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 
-<p align="center">Welcome to my GitHub page! Here you can find my projects and contributions.</p>
+<p align="center">I'm **MassDev** Welcome to my GitHub page! Here you can find my projects and contributions.</p>
 
 
 
 
-<h2 align="center">👋 I'm **MassDev**</h2>
+
 
 <p align="center">I am a full-stack web developer with a passion for creating visually appealing and user-friendly websites. I draw inspiration from music, design, and nature, channeling these influences into every project I undertake.</p>
 
