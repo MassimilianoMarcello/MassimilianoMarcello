@@ -2,13 +2,10 @@
 <img src="https://delightful-swan-a26d76.netlify.app/logo-grey.webP" alt="My Logo" width="550" />  
                                       
 
-
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<p align="center">Benvenuto nella mia pagina GitHub! Qui puoi trovare i miei progetti e contributi.</p>
+<p align="center">Welcome to my GitHub page! Here you can find my projects and contributions.</p>
 
-<h2 align="center">Contattami</h2>
-<p align="center">Email: <a href="mailto:tuoemail@example.com">tuoemail@example.com</a></p>
 
 
 
