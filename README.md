@@ -1,5 +1,6 @@
 
-<img src="https://delightful-swan-a26d76.netlify.app/logo-grey.webP" alt="My Logo" width="550" />                                        [Visit my portfolio](http://www.massdev.studio/)
+<img src="https://delightful-swan-a26d76.netlify.app/logo-grey.webP" alt="My Logo" width="550" />  <a href="http://www.massdev.studio/" target="_blank" rel="noopener noreferrer">Visit my portfolio</a>
+                                      
 
 
 
