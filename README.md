@@ -29,40 +29,37 @@
 ## 🛠️ Tech Stack  
 
 ### 🖥️ Frontend  
-| Linguaggio/Framework | Badge |
-|----------------------|-------|
-| JavaScript           | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| TypeScript           | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| React                | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| Next.js              | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) |
-| HTML5                | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| CSS3                 | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-
+| Language/Framework | Badge |
+|--------------------|-------|
+| JavaScript         | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| TypeScript         | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| React              | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| Next.js            | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) |
+| HTML5              | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| CSS3               | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
 ### 🗄️ Database  
-| Database | Badge |
-|----------|-------|
-| MongoDB  | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| MySQL    | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| Database   | Badge |
+|------------|-------|
+| MongoDB    | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| MySQL      | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 
 ### 📦 Frameworks/Stacks  
-| Stack    | Badge |
-|----------|-------|
-| MERN     | ![MERN Stack](https://img.shields.io/badge/-MERN-3B2D4F?style=flat-square&logo=javascript&logoColor=white) |
-| JAMstack | ![JAMstack](https://img.shields.io/badge/-JAMstack-F0047F?style=flat-square&logo=jamstack&logoColor=white) |
+| Stack      | Badge |
+|------------|-------|
+| MERN       | ![MERN Stack](https://img.shields.io/badge/-MERN-3B2D4F?style=flat-square&logo=javascript&logoColor=white) |
+| JAMstack   | ![JAMstack](https://img.shields.io/badge/-JAMstack-F0047F?style=flat-square&logo=jamstack&logoColor=white) |
 
 ### 🎨 Styling  
-| Stile           | Badge |
-|-----------------|-------|
-| Sass            | ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white) |
-| CSS-in-JS       | ![CSS-in-JS](https://img.shields.io/badge/-CSS--in--JS-563D7C?style=flat-square&logo=styled-components&logoColor=white) |
+| Style      | Badge |
+|------------|-------|
+| Sass       | ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white) |
+| CSS-in-JS  | ![CSS-in-JS](https://img.shields.io/badge/-CSS--in--JS-563D7C?style=flat-square&logo=styled-components&logoColor=white) |
 
 ### 🖋️ CMS  
-| CMS       | Badge |
-|-----------|-------|
-| Sanity.io | ![Sanity.io](https://img.shields.io/badge/-Sanity.io-F03E2F?style=flat-square&logo=sanity&logoColor=white) |
-
-
+| CMS        | Badge |
+|------------|-------|
+| Sanity.io  | ![Sanity.io](https://img.shields.io/badge/-Sanity.io-F03E2F?style=flat-square&logo=sanity&logoColor=white) |
 
 
 
