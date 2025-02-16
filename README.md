@@ -9,7 +9,7 @@
 
 I'm **MassDev**, a full stack web developer passionate about creating visually appealing and user-friendly websites. I draw inspiration from music, design, and nature, which I channel into every project I undertake.
 
- Check out my [portfolio here]<a href="http://www.massdev.studio/" target="_blank" rel="noopener noreferrer">Visit my portfolio</a>
+ Check out <a href="http://www.massdev.studio/" target="_blank" rel="noopener noreferrer"> my portfolio</a>
 
 
 🛠️ Skills & Tech Stack
