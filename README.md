@@ -1,7 +1,5 @@
 
-![My Logo](https://delightful-swan-a26d76.netlify.app/logo-grey.webP)
-
-
+<img src="https://delightful-swan-a26d76.netlify.app/logo-grey.webP" alt="My Logo" width="150" />
 
 
 
