@@ -80,26 +80,37 @@
 | **JavaScript**                            | Deepening knowledge of modern JavaScript features | February 2025 |
 
 
-🚀 Featured Projects
-Project Name 1: A fully responsive e-commerce site
-Project Name 2: Project description and technologies used
+## 🚀 Featured Projects
+---
 
-📜 Certifications & Training
-Full Stack Web Development (Vdab)
-Advanced JavaScript Course
+### Project Name 1
+- **Description**: A fully responsive e-commerce site
+- **Technologies Used**: [List technologies here]
+
+### Project Name 2
+- **Description**: [Project description]
+- **Technologies Used**: [List technologies here]
+
+---
+
+## 📜 Certifications & Training
+- **Full Stack Web Development** (VDAB)
+- **Advanced JavaScript Course**
+
+---
 
 ## 💡 Fun Facts
-- 🎵 I’m passionate about independent music and love exploring new sounds.  
-- 🎚️ I enjoy tweaking synthesizer knobs to create unique sounds.  
-- 🍝 Being Italian, I know my way around the kitchen and enjoy cooking.  
+- 🎵 I’m passionate about independent music and love exploring new sounds.
+- 🎚️ I enjoy tweaking synthesizer knobs to create unique sounds.
+- 🍝 As an Italian, I know my way around the kitchen and enjoy cooking.
 - 🌍 I’m always eager to learn new languages and explore different cultures.
 
+---
 
-🤝 Let's Connect!
+## 🤝 Let's Connect!
 Feel free to connect or reach out if you're interested in collaborating on exciting projects! 😊
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tuo-profilo](https://www.linkedin.com/in/massimiliano-marcello-4195681a7/))  
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/massimiliano-marcello-4195681a7/)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuo-profilo)  
-
 
