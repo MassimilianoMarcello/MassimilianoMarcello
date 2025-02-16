@@ -1,5 +1,5 @@
 
-<img src="https://delightful-swan-a26d76.netlify.app/logo-grey.webP" alt="My Logo" width="550" />  <a href="http://www.massdev.studio/" target="_blank" rel="noopener noreferrer">Visit my portfolio</a>
+<img src="https://delightful-swan-a26d76.netlify.app/logo-grey.webP" alt="My Logo" width="550" />  
                                       
 
 
@@ -7,7 +7,10 @@
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 
-I'm MassDev, a full stack web developer passionate about creating visually appealing and user-friendly websites. I draw inspiration from music, design, and creativity, which I channel into every project I undertake.
+I'm **MassDev**, a full stack web developer passionate about creating visually appealing and user-friendly websites. I draw inspiration from music, design, and nature, which I channel into every project I undertake.
+
+ Check out my [portfolio here]<a href="http://www.massdev.studio/" target="_blank" rel="noopener noreferrer">Visit my portfolio</a>
+
 
 🛠️ Skills & Tech Stack
 Frontend: JavaScript,Typescript, React, Next.js, HTML, CSS
