@@ -4,22 +4,26 @@
 
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
+
 <p align="center">Welcome to my GitHub page! Here you can find my projects and contributions.</p>
 
 
 
 
+<h2 align="center">👋 I'm **MassDev**</h2>
 
-I'm **MassDev**, a full stack web developer passionate about creating visually appealing and user-friendly websites. I draw inspiration from music, design, and nature, which I channel into every project I undertake.
+<p align="center">I am a full-stack web developer with a passion for creating visually appealing and user-friendly websites. I draw inspiration from music, design, and nature, channeling these influences into every project I undertake.</p>
 
- Check out <a href="http://www.massdev.studio/" target="_blank" rel="noopener noreferrer"> my portfolio</a>
+<p align="center">Check out my <a href="http://www.massdev.studio/" target="_blank" rel="noopener noreferrer">portfolio</a>!</p>
 
+<h3 align="center">🛠️ Skills & Tech Stack</h3>
+<ul align="center">
+  <li><strong>Frontend:</strong> JavaScript, TypeScript, React, Next.js, HTML, CSS</li>
+  <li><strong>Backend:</strong> Node.js, MongoDB, MySQL/SQL</li>
+  <li><strong>Frameworks & Stacks:</strong> MERN, JAMstack</li>
+  <li><strong>CMS:</strong> Sanity.io</li>
+</ul>
 
-🛠️ Skills & Tech Stack
-Frontend: JavaScript,Typescript, React, Next.js, HTML, CSS
-Backend: Node.js, MongoDB, MySQL/SQL
-Frameworks & Stacks: MERN, JAMstack
-CMS: Sanity.io
 
 
 ## 🛠️ Tech Stack  
