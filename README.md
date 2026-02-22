@@ -14,7 +14,7 @@
 
 <p align="center">I am a full-stack web developer with a passion for creating visually appealing and user-friendly websites. I draw inspiration from music, design, and nature, channeling these influences into every project I undertake.</p>
 
-<p align="center">Check out my <a href="http://www.massdev.studio/" target="_blank" rel="noopener noreferrer">portfolio</a>!</p>
+<p align="center">Check out my <a href="http://www.massdev.dev/" target="_blank" rel="noopener noreferrer">portfolio</a>!</p>
 
 <h3 align="center">🛠️ Skills & Tech Stack</h3>
 <ul align="center">
