@@ -1,4 +1,3 @@
-
 <img src="https://delightful-swan-a26d76.netlify.app/logo-grey.webP" alt="My Logo" width="550" align="center" />  
                                       
 
@@ -8,10 +7,6 @@
 <p align="center">I'm **MassDev** Welcome to my GitHub page! Here you can find my projects and contributions.</p>
 
 
-
-
-
-
 <p align="center">I am a full-stack web developer with a passion for creating visually appealing and user-friendly websites. I draw inspiration from music, design, and nature, channeling these influences into every project I undertake.</p>
 
 <p align="center">Check out my <a href="http://www.massdev.dev/" target="_blank" rel="noopener noreferrer">portfolio</a>!</p>
@@ -19,9 +14,10 @@
 <h3 align="center">🛠️ Skills & Tech Stack</h3>
 <ul align="center">
   <li><strong>Frontend:</strong> JavaScript, TypeScript, React, Next.js, HTML, CSS</li>
-  <li><strong>Backend:</strong> Node.js, MongoDB, MySQL/SQL</li>
+  <li><strong>Backend:</strong> Node.js, MongoDB, MySQL/SQL, Elixir, Phoenix</li>
   <li><strong>Frameworks & Stacks:</strong> MERN, JAMstack</li>
   <li><strong>CMS:</strong> Sanity.io</li>
+  <li><strong>DevOps:</strong> Docker</li>
 </ul>
 
 
@@ -49,12 +45,20 @@
 |------------|-------|
 | MERN       | ![MERN Stack](https://img.shields.io/badge/-MERN-3B2D4F?style=flat-square&logo=javascript&logoColor=white) |
 | JAMstack   | ![JAMstack](https://img.shields.io/badge/-JAMstack-F0047F?style=flat-square&logo=jamstack&logoColor=white) |
+| Elixir     | ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white) |
+| Phoenix    | ![Phoenix](https://img.shields.io/badge/-Phoenix-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white) |
 
 ### 🎨 Styling  
 | Style      | Badge |
 |------------|-------|
 | Sass       | ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white) |
-| CSS-in-JS  | ![CSS-in-JS](https://img.shields.io/badge/-CSS--in--JS-563D7C?style=flat-square&logo=styled-components&logoColor=white) |         | Tailwind   | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  |  
+| CSS-in-JS  | ![CSS-in-JS](https://img.shields.io/badge/-CSS--in--JS-563D7C?style=flat-square&logo=styled-components&logoColor=white) |
+| Tailwind   | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+
+### 🐳 DevOps  
+| Tool       | Badge |
+|------------|-------|
+| Docker     | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 ### 🖋️ CMS  
 | CMS        | Badge |
@@ -88,8 +92,8 @@
 - **Technologies Used**: [List technologies here]
 
 ### Project Name 2
-- **Description**: [Project description]
-- **Technologies Used**: [List technologies here]
+- **Description**: Tuscany Tefl School
+- **Technologies Used**: Nextjs, Sanity.io,Tailwind Shadcn, Ract Hook form, Zod, Authjs
 
 ---
 
@@ -100,10 +104,10 @@
 ---
 
 ## 💡 Fun Facts
-- 🎵 I’m passionate about independent music and love exploring new sounds.
+- 🎵 I'm passionate about independent music and love exploring new sounds.
 - 🎚️ I enjoy tweaking synthesizer knobs to create unique sounds.
 - 🍝 As an Italian, I know my way around the kitchen and enjoy cooking.
-- 🌍 I’m always eager to learn new languages and explore different cultures.
+- 🌍 I'm always eager to learn new languages and explore different cultures.
 
 ---
 
@@ -116,7 +120,6 @@ Feel free to connect or reach out if you're interested in collaborating on excit
 
 📧 Email: [massdevone@gmail.com]  
 
-📍 Based in: [Brussels]  
-
+📍 Based in: [Brussels]
 
 
