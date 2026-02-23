@@ -54,7 +54,7 @@
 | Style      | Badge |
 |------------|-------|
 | Sass       | ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white) |
-| CSS-in-JS  | ![CSS-in-JS](https://img.shields.io/badge/-CSS--in--JS-563D7C?style=flat-square&logo=styled-components&logoColor=white) |
+| CSS-in-JS  | ![CSS-in-JS](https://img.shields.io/badge/-CSS--in--JS-563D7C?style=flat-square&logo=styled-components&logoColor=white) |         | Tailwind   |![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### 🖋️ CMS  
 | CMS        | Badge |
