@@ -1,127 +1,54 @@
-<img src="https://massdev.dev/logo_only.svg" alt="My Logo" width="550" align="center" /> 
-<img src="https://massdev.dev/massdev-textlogo.svg" alt="My Logo" width="550" align="center" /> 
+<img src="https://massdev.dev/logo_only.svg" alt="MassDev logo" width="60" />
 
-                                      
+# Massimiliano Marcello
 
-<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-
-
-<p align="center">I'm **MassDev** Welcome to my GitHub page! Here you can find my projects and contributions.</p>
-
-
-<p align="center">I am a full-stack web developer with a passion for creating visually appealing and user-friendly websites. I draw inspiration from music, design, and nature, channeling these influences into every project I undertake.</p>
-
-<p align="center">Check out my <a href="http://www.massdev.dev/" target="_blank" rel="noopener noreferrer">portfolio</a>!</p>
-
-<h3 align="center">🛠️ Skills & Tech Stack</h3>
-<ul align="center">
-  <li><strong>Frontend:</strong> JavaScript, TypeScript, React, Next.js, HTML, CSS</li>
-  <li><strong>Backend:</strong> Node.js, MongoDB, MySQL/SQL, Elixir, Phoenix</li>
-  <li><strong>Frameworks & Stacks:</strong> MERN, JAMstack</li>
-  <li><strong>CMS:</strong> Sanity.io</li>
-  <li><strong>DevOps:</strong> Docker</li>
-</ul>
-
-
-
-## 🛠️ Tech Stack  
-
-### 🖥️ Frontend  
-| Language/Framework | Badge |
-|--------------------|-------|
-| JavaScript         | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| TypeScript         | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| React              | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| Next.js            | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) |
-| HTML5              | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| CSS3               | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-
-### 🗄️ Database  
-| Database   | Badge |
-|------------|-------|
-| MongoDB    | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| MySQL      | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-
-### 📦 Frameworks/Stacks  
-| Stack      | Badge |
-|------------|-------|
-| MERN       | ![MERN Stack](https://img.shields.io/badge/-MERN-3B2D4F?style=flat-square&logo=javascript&logoColor=white) |
-| JAMstack   | ![JAMstack](https://img.shields.io/badge/-JAMstack-F0047F?style=flat-square&logo=jamstack&logoColor=white) |
-| Elixir     | ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white) |
-| Phoenix    | ![Phoenix](https://img.shields.io/badge/-Phoenix-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white) |
-
-### 🎨 Styling  
-| Style      | Badge |
-|------------|-------|
-| Sass       | ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white) |
-| CSS-in-JS  | ![CSS-in-JS](https://img.shields.io/badge/-CSS--in--JS-563D7C?style=flat-square&logo=styled-components&logoColor=white) |
-| Tailwind   | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-
-### 🐳 DevOps  
-| Tool       | Badge |
-|------------|-------|
-| Docker     | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-
-### 🖋️ CMS  
-| CMS        | Badge |
-|------------|-------|
-| Sanity.io  | ![Sanity.io](https://img.shields.io/badge/-Sanity.io-F03E2F?style=flat-square&logo=sanity&logoColor=white) |
-
-
-
-## 🌱 Current Focus  
-
-| Goal                                       | Description                                         |
-|--------------------------------------------|-----------------------------------------------------|
-| **Next.js** and **Sanity.io**             | Enhancing my skills in these technologies          |
-| **JavaScript Libraries & Frameworks**     | Exploring new tools to broaden my expertise        |
-| **Open-Source Projects**                   | Contributing to collaborative development efforts    |
-
-## 📚 Currently Studying  
-
-| Topic                                     | Description                                   | Date          |
-|-------------------------------------------|-----------------------------------------------|---------------|
-| **Next.js**                               | Learning about server-side rendering capabilities | February 2025 |
-| **Sanity.io**                             | Understanding headless CMS integration        | February 2025 |
-| **JavaScript**                            | Deepening knowledge of modern JavaScript features | February 2025 |
-
-
-## 🚀 Featured Projects
----
-
-### Project Name 1
-- **Description**: A fully responsive e-commerce site
-- **Technologies Used**: [List technologies here]
-
-### Project Name 2
-- **Description**: Tuscany Tefl School
-- **Technologies Used**: Nextjs, Sanity.io,Tailwind Shadcn, Ract Hook form, Zod, Authjs
+**Frontend Engineer · Design Systems · Brussels**
 
 ---
 
-## 📜 Certifications & Training
-- **Full Stack Web Development** (VDAB)
-- **Advanced JavaScript Course**
+Full-stack developer focused on frontend architecture and component systems. Currently building **BeSpoken** — a design system for Phoenix LiveView based on Atomic Design, with Tailwind and DaisyUI.
+
+My path wasn't linear: communications, radio journalism, restaurant kitchens, social work. What connects all of it is learning complex systems quickly and making them work for real people. Same approach to code — structure, clarity, attention to who uses the product.
+
+Expanding into Elixir and Phoenix. Long-term focus on distributed systems and real-time applications.
 
 ---
 
-## 💡 Fun Facts
-- 🎵 I'm passionate about independent music and love exploring new sounds.
-- 🎚️ I enjoy tweaking synthesizer knobs to create unique sounds.
-- 🍝 As an Italian, I know my way around the kitchen and enjoy cooking.
-- 🌍 I'm always eager to learn new languages and explore different cultures.
+## Stack
+
+**Frontend** — React · Next.js · TypeScript · Tailwind CSS · HTML · CSS  
+**Backend** — Node.js · Elixir · Phoenix · Phoenix LiveView  
+**Data** — PostgreSQL · Prisma · MongoDB  
+**Auth** — Better Auth  
+**CMS** — Sanity.io  
+**Tooling** — Storybook · Docker · Zod · next-safe-action
 
 ---
 
-## 🤝 Let's Connect!
-Feel free to connect or reach out if you're interested in collaborating on exciting projects! 😊
+## Projects
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/massimiliano-marcello-4195681a7/)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuo-profilo)  
+### [Tuscany TEFL School](https://github.com/MassimilianoMarcello/tuscany-tefl-school)
+Full-stack rebuild of a real client's TEFL school website. Next.js App Router, Better Auth, Prisma + PostgreSQL, Sanity v3, shadcn/ui, Tailwind v4, i18n (IT/EN), Resend, Stripe (planned).
 
-📧 Email: [massdevone@gmail.com]  
+Documented migration from Auth.js to Better Auth after hitting concrete session management issues. Admin dashboard built on Sanity write API — non-technical users manage content without touching the CMS directly.
 
-📍 Based in: [Brussels]
+→ [README with architectural decisions](https://github.com/MassimilianoMarcello/tuscany-tefl-school)
+
+### BeSpoken Design System *(in progress)*
+Component library for Phoenix LiveView. Atomic Design structure with a three-level token system (Core → Semantic → Component). Components documented in Storybook. Built for a pre-seed ed-tech startup.
+
+---
+
+## Currently
+
+- Deepening Elixir/Phoenix under senior mentorship
+- Documenting BeSpoken atoms: state handling (MD3 model), Storybook integration for LiveView
+- 12-month deliberate skill-building period before job search — target: Frontend Engineer / Design Systems at remote-first European product companies
+
+---
+
+📧 massdevone@gmail.com  
+🌐 [massdev.dev](https://massdev.dev)  
+💼 [LinkedIn](https://www.linkedin.com/in/massimiliano-marcello-4195681a7/)
 
 
