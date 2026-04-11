@@ -27,7 +27,7 @@ Expanding into Elixir and Phoenix. Long-term focus on distributed systems and re
 
 ## Projects
 
-### [Tuscany TEFL School](https://github.com/MassimilianoMarcello/tuscany-tefl-school)
+### [Tuscany TEFL School]([https://github.com/MassimilianoMarcello/tuscany-tefl-school])(https://tuscany-tefl.netlify.app/en)
 Full-stack rebuild of a real client's TEFL school website. Next.js App Router, Better Auth, Prisma + PostgreSQL, Sanity v3, shadcn/ui, Tailwind v4, i18n (IT/EN), Resend, Stripe (planned).
 
 Documented migration from Auth.js to Better Auth after hitting concrete session management issues. Admin dashboard built on Sanity write API — non-technical users manage content without touching the CMS directly.
