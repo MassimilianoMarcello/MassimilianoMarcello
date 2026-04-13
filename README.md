@@ -1,4 +1,4 @@
-<img src="https://massdev.dev/logo4github.png" alt="MassDev logo" width="200" /> 
+<img src="https://massdev.dev//logo_massdev.svg" alt="MassDev logo" width="200" /> 
 
 # Massimiliano Marcello
 
